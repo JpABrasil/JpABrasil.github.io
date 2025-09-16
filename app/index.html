@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Portfólio Profissional</title>
+        <link rel="icon" type="image/png" href="../assets/favicon.ico"/>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <header>
+            <div><strong data-i18n="header-title">Meu Portfólio</strong></div>
+            <nav>
+                <a href="#apresentacao" data-i18n="nav-apresentacao">Apresentação</a>
+                <a href="#experiencia" data-i18n="nav-experiencia">Experiência</a>
+                <a href="#habilidades" data-i18n="nav-habilidades">Habilidades</a>
+                <a href="#projetos" data-i18n="nav-projetos">Projetos</a>
+                <a href="#contato" data-i18n="nav-contato">Contato</a>
+            </nav>
+            <div style="display: flex; gap: 0.5rem; align-items: center;">
+                <button class="theme-toggle" id="toggle-theme" title="Alternar tema">🌙</button>
+                <button class="theme-toggle" id="toggle-lang" title="Switch language">EN</button>
+                <button class="theme-toggle" id="font-plus" title="Aumentar fonte" aria-label="Aumentar fonte">A+</button>
+                <button class="theme-toggle" id="font-minus" title="Reduzir fonte" aria-label="Reduzir fonte">A-</button>
+            </div>
+        </header>
+        <main>
+            <section id="apresentacao">
+                <div id="apresentacao-imagem">
+                    <img src="assets/perfil.png" alt="Foto de Perfil" width="300" height="300">
+                </div>
+                <div id="apresentacao-texto">
+                    <h1 id="profile-name">[Seu Nome]</h1>
+                    <h3 id="profile-title">Seu cargo</h3>
+                    <p id="profile-summary">Seu resumo profissional aparecerá aqui.</p>
+                    <p>
+                        <a id="cv-download" style="color:white" class="btn" href="assets/cv.pdf" download data-i18n="cv-download">Baixar CV</a>
+                    </p>
+                </div>
+            </section>
+            <section id="experiencia">
+                <h2 data-i18n="experiencia-titulo">Experiência Profissional</h2>
+                <div id="experience-list"></div>
+            </section>
+            <section id="habilidades">
+                <h2 data-i18n="habilidades-titulo">Habilidades Técnicas</h2>
+                <ul id="skills-list" class="skills-list"></ul>
+            </section>
+            <section id="projetos">
+                <h2 data-i18n="projetos-titulo">Projetos Realizados</h2>
+                <ul id="projects-list" class="projects-list"></ul>
+            </section>
+            <section id="contato">
+                <h2 data-i18n="contato-titulo">Contato</h2>
+                <p>Email: <a id="contact-email" href="#">email@example.com</a></p>
+                <p>LinkedIn: <a id="contact-linkedin" href="#" target="_blank">/usuario</a></p>
+            </section>
+        </main>
+        <script src="js/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,230 @@
+{
+  "pt": {
+    "name": "João Pedro Alexandrino Brasil",
+    "title": "Engenheiro de Machine Learning",
+    "summary": "Estudante de Ciência da Computação com experiência em automação de tarefas, análise de dados, aplicação de modelos de aprendizagem de máquina e criação de soluções impulsionadas por IA.",
+    "experience": [
+      {
+        "company": "SOL by RZK",
+        "role": "Analista de Risco Quantitativo Jr",
+        "period": "04/2025 - Presente",
+        "details": [
+          "Criação de pipeline para extração, limpeza e estruturação de dados",
+          "Modelagem de risco de crédito para produtores rurais com aprendizado de máquina"
+        ]
+      },
+      {
+        "company": "Kinea Investimentos",
+        "role": "Summer Job",
+        "period": "01/2025 - 03/2025",
+        "details": [
+          "Modelagem matemática em problemas de otimização para boletagem de crédito privado",
+          "Integração com LLMs para construção de solução",
+          "Desenvolvimento de algoritmos",
+          "Utilização de Databricks e PySpark"
+        ]
+      },
+      {
+        "company": "CBIC - Câmara Brasileira da Indústria da Construção",
+        "role": "Estágio de Dados",
+        "period": "08/2024 - 01/2025",
+        "details": [
+          "Estabelecimento de KPIs",
+          "Engenharia de dados",
+          "Criação de dashboards",
+          "Análises estatísticas",
+          "Modelos de agrupamento e classificação"
+        ]
+      },
+      {
+        "company": "Instituto do Meio Ambiente de Caucaia",
+        "role": "Assessor Técnico",
+        "period": "09/2023 - 08/2024",
+        "details": [
+          "Estruturei bancos de dados integrados a dashboards (Power BI / Looker Studio / Tableau)",
+          "Criei scripts de web scraping com Selenium para mineração de dados",
+          "Automatizei tarefas com scripts em Python"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidade de Fortaleza",
+        "degree": "Bacharelado em Ciência da Computação",
+        "period": "2024 - 2027"
+      }
+    ],
+    "achievements": [
+      "3° Lugar Nacional do Datathon FGV (5ª edição) — Projeto com agentes para manejo de portfólio treinados com aprendizado por reforço"
+    ],
+    "skills": [
+      "Análise, manipulação e visualização de dados",
+      "Aprendizado de Máquina e Estatística Aplicada",
+      "Linguagens: Python, Java, C",
+      "Ferramentas: Excel, Power BI, Looker Studio, Tableau",
+      "Cloud: AWS, Azure, Databricks",
+      "DevOps: Docker, Git"
+    ],
+    "courses": [
+      "Machine Learning Specialization — Stanford/DeepLearning.ai",
+      "Formação Cientista de Dados — Fernando Amaral",
+      "Introduction to Docker",
+      "Intro to Deep Learning"
+    ],
+    "certifications": [
+      "Data Scientist by DataCamp — Associate",
+      "C2 English Level"
+    ],
+    "projects": [
+      {
+        "name": "Datathon FGV 2024",
+        "description": "Competição nacional de ciência de dados focada em finanças, onde desenvolvi agentes autônomos para tomada de decisão em portfólio de investimentos usando aprendizado por reforço. O projeto envolveu simulação de cenários, análise de risco e otimização de estratégias, resultando em 3º lugar nacional."
+      },
+      {
+        "name": "Cases Kinea Marketing",
+        "description": "Desenvolvimento de soluções para desafios reais de marketing e análise de dados, incluindo apresentação profissional, comunicação visual e adaptação de estratégias para diferentes públicos. Os cases destacam minha capacidade de unir análise quantitativa com storytelling e visualização de resultados."
+      },
+      {
+        "name": "Dashboard Déficit Habitacional (CBIC)",
+        "description": "Construção de dashboard interativo para análise do déficit habitacional brasileiro ao longo de 24 anos, utilizando Looker Studio. O projeto envolveu manipulação de dados históricos, criação de KPIs e visualização de tendências para apoiar decisões em políticas públicas."
+      },
+      {
+        "name": "Relatório de Resultados Solar (CocaCola)",
+        "description": "Elaboração de relatórios mensais de desempenho comercial e marketing para projetos solares, com análise de indicadores, acompanhamento de metas e apresentação de resultados para stakeholders. O trabalho evidenciou minha capacidade de report e análise de negócio."
+      },
+      {
+        "name": "Análise Correlacional FGTS (CBIC)",
+        "description": "Aplicação de modelos estatísticos para prever impactos financeiros e analisar correlação entre variáveis que influenciam saques do FGTS. O projeto envolveu manipulação de grandes volumes de dados, modelagem preditiva e geração de insights para políticas públicas."
+      },
+      {
+        "name": "Controle de PDI’s (IMAC)",
+        "description": "Desenvolvimento de pipeline ETL para coleta de dados de campo, integração com bancos de dados PostgreSQL e criação de dashboard em tempo real para monitoramento ambiental. O projeto destacou automação, integração de dados reais e monitoramento contínuo."
+      },
+      {
+        "name": "Otimização de Corte de Chapas",
+        "description": "Implementação de algoritmos de otimização para corte de chapas, com comparação de diferentes estratégias e uso de programação orientada a objetos. O projeto evidenciou pensamento algorítmico e aplicação computacional para solução de problemas industriais."
+      }
+    ],
+    "contact": {
+      "email": "joaopedroalexandrino6@hotmail.com",
+      "phone": "+55 85 99294-7526",
+      "linkedin": "https://www.linkedin.com/in/jo%C3%A3o-pedro-alexandrino-brasil-54865a29a/"
+    }
+  },
+  "en": {
+    "name": "João Pedro Alexandrino Brasil",
+    "title": "Machine Learning Engineer",
+    "summary": "Computer Science student with experience in task automation, data analysis, machine learning model development, and AI-driven solutions.",
+    "experience": [
+      {
+        "company": "SOL by RZK",
+        "role": "Junior Quantitative Risk Analyst",
+        "period": "Apr 2025 - Present",
+        "details": [
+          "Built pipelines for data extraction, cleaning, and structuring",
+          "Applied machine learning for credit risk modeling of rural producers"
+        ]
+      },
+      {
+        "company": "Kinea Investimentos",
+        "role": "Summer Job",
+        "period": "Jan 2025 - Mar 2025",
+        "details": [
+          "Mathematical modeling for optimization problems in private credit trade",
+          "Integrated LLMs to build solutions",
+          "Algorithm development",
+          "Used Databricks and PySpark"
+        ]
+      },
+      {
+        "company": "CBIC - Brazilian Chamber of Construction Industry",
+        "role": "Data Intern",
+        "period": "Aug 2024 - Jan 2025",
+        "details": [
+          "Established KPIs",
+          "Data engineering",
+          "Dashboard development",
+          "Statistical analyses",
+          "Clustering and classification models"
+        ]
+      },
+      {
+        "company": "Caucaia Environmental Institute",
+        "role": "Technical Advisor",
+        "period": "Sep 2023 - Aug 2024",
+        "details": [
+          "Structured databases integrated with dashboards (Power BI / Looker Studio / Tableau)",
+          "Built web scraping scripts with Selenium for data mining",
+          "Automated tasks with Python scripts"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Fortaleza",
+        "degree": "B.Sc. in Computer Science",
+        "period": "2024 - 2027"
+      }
+    ],
+    "achievements": [
+      "3rd place nationwide at FGV Datathon (5th edition) — Project on portfolio management agents trained with reinforcement learning"
+    ],
+    "skills": [
+      "Data analysis, wrangling and visualization",
+      "Machine Learning and Applied Statistics",
+      "Programming Languages: Python, Java, C",
+      "Analytical Tools: Excel, PowerBI, LookerStudio, Tableau",
+      "Cloud: AWS, Azure, Databricks",
+      "DevOps: Docker, Git"
+    ],
+    "courses": [
+      "Machine Learning Specialization - Stanford/DeepLearning.ai",
+      "Data Scientist Path - Fernando Amaral",
+      "Introduction to Docker",
+      "Intro to DeepLearning"
+    ],
+    "certifications": [
+      "Data Scientist by DataCamp - Associate",
+      "C2 English Level"
+    ],
+    "projects": [
+      {
+        "name": "Datathon FGV – 2024",
+        "description": "Project to create an autonomous investment agent that considers investor profile for decision-making. Used reinforcement learning, agent modeling, and portfolio analysis to develop decision algorithms. Highlights include AI application in finance and participation in a national competition (3rd place)."
+      },
+      {
+        "name": "Kinea Marketing Cases",
+        "description": "Cases developed for the selection process at Kinea Investimentos, each with a different proposal and professional presentation. Involved marketing analysis, creation of visual materials, market data analysis, and communication. Demonstrates versatility, soft skills, and strategic thinking."
+      },
+      {
+        "name": "Housing Deficit Dashboard (CBIC)",
+        "description": "Dashboard created to study the housing deficit in Brazil over the last 24 years, using Looker Studio. Handling of historical series, visualization of public/demographic data, and creation of KPIs for robust analysis and monitoring of social trends."
+      },
+      {
+        "name": "Solar Results Report",
+        "description": "Report produced during the selection process for Solar (CocaCola), analyzing monthly sales and performance results. Involved presentation of metrics, extraction of insights, and data visualization for a corporate environment."
+      },
+      {
+        "name": "FGTS Correlational Analysis (CBIC)",
+        "description": "Predictive analysis of the future of FGTS and correlation of possible withdrawals that may be draining fund resources. Used statistics, regression, and public policy analysis to generate relevant insights on social and institutional impact."
+      },
+      {
+        "name": "PDI Control (IMAC)",
+        "description": "Dashboard for real-time visualization of Caucaia's PDIs, adjusted to receive data via PostgreSQL collected in the field daily. Developed ETL pipeline, automation of data collection, and integration of field data for an operational solution applied to the city hall."
+      },
+      {
+        "name": "Sheet Cutting Optimization",
+        "description": "Project from the object-oriented programming course, implementing and comparing different optimization algorithms for two-dimensional sheet cutting. Used bin packing, performance analysis, and object-oriented programming for a solution applicable in manufacturing."
+      },
+      {
+        "name": "GymFor Project",
+        "description": "Extra project to show personal initiative and flexibility for different domains. (Suggestion: add technical description if you want to highlight this project more.)"
+      }
+    ],
+    "contact": {
+      "email": "joaopedroalexandrino6@hotmail.com",
+      "phone": "+55 85 99294-7526",
+      "linkedin": "https://www.linkedin.com/in/jo%C3%A3o-pedro-alexandrino-brasil-54865a29a/"
+    }
+  }
+}
